@@ -1,31 +1,37 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>Loftie Ellis</h1>
     <p>
-      For a guide and recipes on how to configure / customize this project,<br>
-      check out the
-      <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
+      Software developer, rock climber, builder of random things.
     </p>
-    <h3>Installed CLI Plugins</h3>
+    <h3>Android Apps</h3>
     <ul>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-babel" target="_blank" rel="noopener">babel</a></li>
-      <li><a href="https://github.com/vuejs/vue-cli/tree/dev/packages/%40vue/cli-plugin-eslint" target="_blank" rel="noopener">eslint</a></li>
+      <li><a href="https://play.google.com/store/apps/details?id=com.lpellis.sensorlab">SensorLab</a></li>
+      <li><a href="https://play.google.com/store/apps/details?id=design.qr.code.scanner">QR Code Scanner</a></li>
+      <li><a href="https://play.google.com/store/apps/details?id=com.lpellis.rcalcfree">Resistance Calculator</a> </li>
     </ul>
-    <h3>Essential Links</h3>
+    <h3>Websites</h3>
     <ul>
-      <li><a href="https://vuejs.org" target="_blank" rel="noopener">Core Docs</a></li>
-      <li><a href="https://forum.vuejs.org" target="_blank" rel="noopener">Forum</a></li>
-      <li><a href="https://chat.vuejs.org" target="_blank" rel="noopener">Community Chat</a></li>
-      <li><a href="https://twitter.com/vuejs" target="_blank" rel="noopener">Twitter</a></li>
-      <li><a href="https://news.vuejs.org" target="_blank" rel="noopener">News</a></li>
+      <li><a href="https://coinminingstats.com">CoinMiningStats</a></li>
+
     </ul>
-    <h3>Ecosystem</h3>
+    <h3>Personal</h3>
     <ul>
-      <li><a href="https://router.vuejs.org" target="_blank" rel="noopener">vue-router</a></li>
-      <li><a href="https://vuex.vuejs.org" target="_blank" rel="noopener">vuex</a></li>
-      <li><a href="https://github.com/vuejs/vue-devtools#vue-devtools" target="_blank" rel="noopener">vue-devtools</a></li>
-      <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
-      <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
+      <li><a href="https://www.youtube.com/user/lpellis1/videos" >YouTube videos</a></li>
+    </ul>
+    <h3>Work</h3>
+    <ul>
+      <li><a href="https://www.snapscan.co.za/" >SnapScan</a></li>
+    </ul>
+    <h3>Links</h3>
+    <ul>
+      <li><a href="https://github.com/lpellis">GitHub</a></li>
+      <li><a href="https://bitbucket.org/lpellis/">Bitbucket</a></li>
+      <li><a href="https://twitter.com/lpellis">Twitter</a></li>
+    </ul>
+    <h3>Contact</h3>
+    <ul>
+      <li><span style="font-size:80%">admin@loftie.com</span></li>
     </ul>
   </div>
 </template>
