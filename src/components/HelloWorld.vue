@@ -28,6 +28,7 @@
       <li><a href="https://github.com/lpellis">GitHub</a></li>
       <li><a href="https://bitbucket.org/lpellis/">Bitbucket</a></li>
       <li><a href="https://twitter.com/lpellis">Twitter</a></li>
+      <li><a href="https://medium.com/@lpellis">Medium</a></li>
     </ul>
     <h3>Contact</h3>
     <ul>
@@ -38,10 +39,7 @@
 
 <script>
 export default {
-  name: 'HelloWorld',
-  props: {
-    msg: String
-  }
+  name: 'HelloWorld'
 }
 </script>
 
