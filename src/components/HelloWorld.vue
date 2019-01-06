@@ -31,7 +31,7 @@
     </ul>
     <h3>Contact</h3>
     <ul>
-      <li><span style="font-size:80%">admin@loftie.com</span></li>
+      <li><span style="font-size:80%">loftie@lpellis.com</span></li>
     </ul>
   </div>
 </template>
